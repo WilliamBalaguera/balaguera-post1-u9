@@ -148,3 +148,9 @@ VALUES ('Administrador', 'admin@universidad.edu',
 ## Autor
 
 **William Balaguera**
+
+## capturas
+<img width="1600" height="765" alt="WhatsApp Image 2026-05-28 at 2 49 56 PM" src="https://github.com/user-attachments/assets/acd4fd71-0006-4668-b4db-58e6a59a7de0" />
+<img width="1600" height="766" alt="WhatsApp Image 2026-05-28 at 2 51 41 PM" src="https://github.com/user-attachments/assets/ae17b82a-e875-4d68-9202-6e93c0c14862" />
+
+
